@@ -1,5 +1,6 @@
 # PrashantSinghCS32
  PrashantSinghCS32, Roll No 190508010070, Assignment 2
+ Prabal Pratap SinghCS32, Roll No 190508010065, Assignment 2
 # Screenshots
 <p><b> <b><p>
 <img src ="https://user-images.githubusercontent.com/72181295/137642387-0cc12a9b-a380-4053-980d-3a7609556379.png" width="200" height="200">
