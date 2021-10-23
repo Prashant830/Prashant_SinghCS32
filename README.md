@@ -1,5 +1,4 @@
-# PrashantSinghCS32
- PrashantSinghCS32, Roll No 190508010070, Assignment 2
+# PrabalPratapSinghCS32
  Prabal Pratap SinghCS32, Roll No 190508010065, Assignment 2
 # Screenshots
 <p><b> <b><p>
